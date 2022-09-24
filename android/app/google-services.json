@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "607665620997",
+    "project_id": "pc-card",
+    "storage_bucket": "pc-card.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607665620997:android:c3489cef46631adc63f46c",
+        "android_client_info": {
+          "package_name": "com.pccards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607665620997-t93q0dbp89h2aau9t9kffq3t9jusq4i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsAtkkLWfbEmWbmp7FtbHRqySK9w5uptM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607665620997-t93q0dbp89h2aau9t9kffq3t9jusq4i8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
