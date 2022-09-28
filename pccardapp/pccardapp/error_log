@@ -1,0 +1,1 @@
+[03-Nov-2021 15:25:27 Asia/Kolkata] PHP Fatal error:  Cannot declare class CreateCollectionTable, because the name is already in use in /home/usexpert/public_html/anonymous/mobileteam/pccardapp/database/migrations/2021_11_03_151823_create_collections_table.php on line 7
